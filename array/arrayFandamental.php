@@ -1,7 +1,7 @@
 <?php
 
 // Indexed Array
-$colors = array('red',array('yellow','purple','indigoo'),'blue');
+$colors = array('red',array('yellow','purple','indigoo'),'green', 'white' );
 //$colors = ['red','green','blue'];
 
 // Associative Array
